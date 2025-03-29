@@ -1,0 +1,31 @@
+ KERNEL:
+ It is the core or the heart of the operating system. It's the central part that manages and 
+facilitates communication between the computer's hardware and software.
+ SHELL:
+ A shell that allows users to interact with the operating system. There are two types of shells.
+ Command Line Interface (CLI): Executes the command provided by user given in the form 
+command and display the output in terminal.
+ Executes the process provided by user in graphical way and output is displayed in the 
+graphical window.
+COMMAND:
+ It is an instruction/request given to the operating system by a user.
+ It tells computer to perform a particular task.
+ TERMINAL:
+ It is a text-based interface that allows you to interact with the operating system by typing 
+commands.
+ It's a way for you to communicate with the linux machines KERNEL:
+ It is the core or the heart of the operating system. It's the central part that manages and 
+facilitates communication between the computer's hardware and software.
+ SHELL:
+ A shell that allows users to interact with the operating system. There are two types of shells.
+ Command Line Interface (CLI): Executes the command provided by user given in the form 
+command and display the output in terminal.
+ Executes the process provided by user in graphical way and output is displayed in the 
+graphical window.
+COMMAND:
+ It is an instruction/request given to the operating system by a user.
+ It tells computer to perform a particular task.
+ TERMINAL:
+ It is a text-based interface that allows you to interact with the operating system by typing 
+commands.
+ It's a way for you to communicate with the linux machines
